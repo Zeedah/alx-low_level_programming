@@ -1,1 +1,1 @@
-Write a function that checks for a digit (0 through 9). Prototype: int _isdigit(int c); Returns 1 if c is a digit Returns 0 otherwise FYI: The standard library provides a similar function: isdigit. Run man isdigit to learn more.
+Write a function that draws a diagonal line on the terminal. Prototype: void print_diagonal(int n); You can only use _putchar function to print Where n is the number of times the character \ should be printed The diagonal should end with a \n If n is 0 or less, the function should only print a \n
