@@ -1,5 +1,10 @@
-Write a function that deletes the node at index index of a dlistint_t linked list.
+Write a keygen for crackme5.
 
 
 
-Prototype: int delete_dnodeint_at_index(dlistint_t **head, unsigned int index);
+Usage of the crackme: ./crackme5 username key
+
+The crackme will segfault if you do not enter the correct key for the user
+Usage for your keygen: ./keygen5 username
+
+Your keygen should print a valid key for the username
